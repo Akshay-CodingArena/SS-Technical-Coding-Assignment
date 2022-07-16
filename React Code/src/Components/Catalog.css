@@ -1,0 +1,8 @@
+th,
+tbody {
+    border: 1px solid;
+}
+
+td {
+    border-left: 1px solid;
+}
